@@ -162,3 +162,4 @@ cython_debug/
 notebooks/testfile.ipynb
 notebooks/catboost_info/
 data/house-prices-advanced-regression-techniques/
+*.txt
