@@ -159,7 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
-notebooks/testfile.ipynb
-notebooks/catboost_info/
+notebooks/kaggle/testfile.ipynb
+notebooks/kaggle/catboost_info/
 data/house-prices-advanced-regression-techniques/
 *.txt
