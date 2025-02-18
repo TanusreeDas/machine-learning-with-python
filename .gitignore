@@ -162,3 +162,4 @@ cython_debug/
 kaggle/notebooks/catboost_info/
 kaggle/backup/
 *.txt
+/case-studies/notebooks/fine_tuned_models/
